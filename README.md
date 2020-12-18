@@ -73,4 +73,6 @@ Ideas for future iterations:
 
 ## In Action:
 
-INSERT SCREENSHOTS/GIFS HERE
+[GIF OF SITE ON BROWSER](https://media.giphy.com/media/YJNGpmgivlRSoif4Ms/giphy.gif)
+
+[GIF OF SITE ON MOBILE](https://media.giphy.com/media/VlxeQ0WOykj5hhpAJD/giphy.gif)
