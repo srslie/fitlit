@@ -70,6 +70,8 @@ Ideas for future iterations:
   - If we had time, we would've made a function that went through the array of user.friendsand populated an object, which would then get passed into the new Chart() to populate a dataSet. However, we choose to create a nicer display of the data we had as an example of how we would like to render this information were it more dynamic. If we had time, we would ensure this was functional for any user.
 - This app lends itself to both mobile app development and hooking it up to a fitness tracker. While we don't currently have the knowledge to do that, we would look at that down the line as a natural progression of this project, and until then we would like to add manual input forms for the users to update any of their stats for the day and/or their profile information.
 - While we kept accessibility in mind, we're new to the technology and can see areas of improvement for screen readers accessing our data, and we're excited to learn and grow more as developers to ensure we're reaching all audiences!
+- Our date picker is buggy: we had issues getting the page reload to repopulate our graphs and data. We would fix this going forward!
+- Some of our fonts scale out of their divs, but with such fly styling, we ran out of time to polish all of the areas we would finish out in the future.
 
 ## In Action:
 
