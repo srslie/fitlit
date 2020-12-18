@@ -22,7 +22,7 @@ If you would like to look at the code itself or run our test suites:
 
 ## Contributors
 
-! [AliceRuppert and Connie Hong](https://photos.smugmug.com/photos/i-HX99h8Z/0/5d92ff5c/X2/i-HX99h8Z-X2.jpg)
+![AliceRuppert and Connie Hong](https://photos.smugmug.com/photos/i-HX99h8Z/0/5d92ff5c/X2/i-HX99h8Z-X2.jpg)
 
 This site was coded by [Connie Hong](https://github.com/conconartist) and [Alice Ruppert](https://github.com/srslie).
 
